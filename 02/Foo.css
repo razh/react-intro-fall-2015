@@ -1,0 +1,7 @@
+.header {
+  font-size: 48px;
+}
+
+.label {
+  border-bottom: 2px solid currentColor;
+}
